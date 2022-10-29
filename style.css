@@ -51,8 +51,8 @@
 }
 #hour{
     width: 5px ;
-    height: 15%;
-    top: 35%;
+    height: 12%;
+    top: 38%;
     left:50.4%;
     opacity: 80%;
     transform-origin: bottom;
@@ -61,16 +61,16 @@
 
 #minute{
     width: 3px;
-    height: 23%;
-    top: 27%;
+    height: 19%;
+    top: 31%;
     left:50.4%;
     opacity: 80%;
     transform-origin: bottom;
 }
 #second{
     width: 1px;
-    height: 30%;
-    top: 18%;
+    height: 23%;
+    top: 27%;
     left:50.4%;
     opacity: 80%;
     transform-origin: bottom;
